@@ -1,0 +1,56 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #f8f8f8;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Finger Paint', cursive;
+  text-shadow: 5px 0 #00a79d;
+  font-size: 8rem;
+  color: #007065
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+.roll-button{
+  color: red;
+  height: 60px;
+  width: 220px;
+  font-size: 30px;
+  margin: 0 600px;
+  
+  
+  
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  
+}
+
+footer p {
+  font-size: 15px;
+  color: navy;
+}
